@@ -1,0 +1,19 @@
+# Python 환경 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 가상환경 폴더
+venv/
+llama-env/
+
+# Jupyter Notebook 관련
+.ipynb_checkpoints
+
+# 기타
+*.log
+*.sqlite
+
+llama-env/
+

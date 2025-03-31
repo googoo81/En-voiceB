@@ -1,0 +1,12 @@
+[
+  { "input": "What is your name?", "output": "My name is Assistant." },
+  { "input": "How are you?", "output": "I'm fine, thank you!" },
+  {
+    "input": "Tell me a joke.",
+    "output": "Why don't skeletons fight each other? They don't have the guts."
+  },
+  {
+    "input": "What is the capital of France?",
+    "output": "The capital of France is Paris."
+  }
+]

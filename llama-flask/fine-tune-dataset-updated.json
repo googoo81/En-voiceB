@@ -1,0 +1,18 @@
+[
+    {
+        "input": "./audio_data/audio_0.mp3",
+        "output": "My name is Assistant."
+    },
+    {
+        "input": "./audio_data/audio_1.mp3",
+        "output": "I'm fine, thank you!"
+    },
+    {
+        "input": "./audio_data/audio_2.mp3",
+        "output": "Why don't skeletons fight each other? They don't have the guts."
+    },
+    {
+        "input": "./audio_data/audio_3.mp3",
+        "output": "The capital of France is Paris."
+    }
+]
